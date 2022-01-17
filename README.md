@@ -3,6 +3,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2021%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70%20Thousand%20lines%20of%20code-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -13,15 +15,7 @@ HTML                     58 mins             █░░░░░░░░░░�
 Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
 XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
-🔥 Editors: 
-VS Code                  23 hrs 1 min        █████████████████████████   100.0%
-
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ZzicC12/ZzicC12/main/charts/bar_graph.png) 
-
-
- Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
